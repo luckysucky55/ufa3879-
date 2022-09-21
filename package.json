@@ -1,0 +1,14 @@
+{
+  "name": "ufa3879",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "ufa3879 ทางเข้า เว็บพนันบอลออนไลน์ ที่ปลอดภัยที่สุด",
+  "keywords": [
+    "แทงบอลชุด"
+  ],
+  "repository": "https://github.com/luckysucky55/ufa3879-",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
